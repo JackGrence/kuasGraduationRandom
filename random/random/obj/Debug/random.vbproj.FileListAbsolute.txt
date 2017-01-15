@@ -1,0 +1,11 @@
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Debug\random.exe.config
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Debug\random.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Debug\random.pdb
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Debug\random.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.vbprojResolveAssemblyReference.cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.Form1.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.Resources.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.vbproj.GenerateResource.Cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Debug\random.pdb

@@ -1,0 +1,11 @@
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\bin\Debug\excel_do.exe.config
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\bin\Debug\excel_do.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\bin\Debug\excel_do.pdb
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\bin\Debug\excel_do.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.vbprojResolveAssemblyReference.cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.Form1.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.Resources.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.vbproj.GenerateResource.Cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\excel_do\excel_do\obj\Debug\excel_do.pdb

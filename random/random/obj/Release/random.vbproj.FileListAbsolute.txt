@@ -1,0 +1,15 @@
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.exe.config
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.pdb
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.Form1.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.Resources.resources
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.vbproj.GenerateResource.Cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.exe
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.xml
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.pdb
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.vbprojResolveAssemblyReference.cache
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.exe.manifest
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\bin\Release\random.application
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.exe.manifest
+C:\Users\green\Desktop\code\VB\畢業抽籤\random\random\obj\Release\random.application
